@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay529&label=Profile%20views&color=0e75b6&style=flat" alt="vijay529" /> </p>
 
-- 🔭 I’m currently working on **a react based project**
+- 🔭 I’m currently working to **get some real world experience**
 
 - 🌱 I’m currently learning **react redux**
 
-- 👨‍💻 All of my projects are available at [vijay.thsite.top](vijay.thsite.top)
+- 👨‍💻 My portfolio website (not fully optimised) [vijay.thsite.top](vijay.thsite.top)
 
 - 💬 Ask me about **react, express, nodejs**
 
