@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react redux**
 
-- 👨‍💻 My portfolio website (not fully optimised) [vijay.thsite.top](vijay.thsite.top)
+- 👨‍💻 My portfolio website [portfolio]([https://vijay529.github.io/my-portfolio/])
 
 - 💬 Ask me about **react, express, nodejs**
 
